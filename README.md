@@ -4,4 +4,4 @@
 ## 1. Array
 |No.|Title|Solution|difficulty|TimeComplexity|SpaceComplexity|
 |---|-----|--------|----------|--------------|---------------|
-|0001|Two Sum|     |easy      |              |               |
+|0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| [Solution](https://github.com/xleslie/LeetCode/blob/main/Solution/0001.Two_Sum)    |easy      | O(n)             |     O(n)          |
