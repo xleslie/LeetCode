@@ -6,3 +6,5 @@
 |---|-----|--------|----------|--------------|---------------|
 |0001|[Two Sum](https://leetcode-cn.com/problems/two-sum/)| [Solution](https://github.com/xleslie/LeetCode/blob/main/Solution/0001.Two_Sum)    |easy      | O(n)             |     O(n)          |  
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](https://github.com/xleslie/LeetCode/tree/main/Solution/0026.Remove_Duplicates_from_Sorted_Array)|easy|O(n)|O(1)|
+|0027|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution](https://github.com/xleslie/LeetCode/tree/main/Solution/0027.Remove_Element)|easy|O(n)|O(1)|
+
