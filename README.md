@@ -13,3 +13,4 @@
 |No.|Title|Solution|difficulty|TimeComplexity|SpaceComplexity|
 |---|-----|--------|----------|--------------|---------------|
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](https://github.com/xleslie/LeetCode/tree/main/Solution/0035.Search_Insert_Position)|easy|O(logn)|O(1)|
+|0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/)|[Solution](https://github.com/xleslie/LeetCode/tree/main/Solution/0069.Sqrt(x))|easy|O(logn)|O(1)|
