@@ -15,3 +15,8 @@
 |0035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](https://github.com/xleslie/LeetCode/tree/main/Solution/0035.Search_Insert_Position)|easy|O(logn)|O(1)|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/)|[Solution](https://github.com/xleslie/LeetCode/tree/main/Solution/0069.Sqrt(x))|easy|O(logn)|O(1)|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](https://github.com/xleslie/LeetCode/tree/main/Solution/0167.Two%20Sum%20II%20-%20Input_array_is_sorted)|easy|O(n)|O(1)|
+
+## 3.其他
+|No.|Title|Solution|difficulty|TimeComplexity|SpaceComplexity|
+|---|-----|--------|----------|--------------|---------------|
+|0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Solution](https://github.com/xleslie/LeetCode/tree/main/Solution/0029.Divide_Two_Integers)|Mideum|||
