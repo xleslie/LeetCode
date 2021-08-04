@@ -1,9 +1,9 @@
 ## 题目描述
-Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value.
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-If target is not found in the array, return [-1, -1].
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
-Follow up: Could you write an algorithm with O(log n) runtime complexity?
+You can return the answer in any order.
 
 ## Example
 ### Example 1:
